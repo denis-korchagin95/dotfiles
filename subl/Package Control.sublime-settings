@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"ApacheConf",
+		"BracketHighlighter",
+		"EasyMotion",
+		"Emmet",
+		"HTMLBeautify",
+		"Material Theme",
+		"Package Control",
+		"PHP Codebeautifier",
+		"PHP Syntax Checker",
+		"Pretty JSON"
+	]
+}
