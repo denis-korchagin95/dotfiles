@@ -41,6 +41,18 @@ nmap <Leader><space> :nohlsearch<cr>
 nmap <C-k><C-b> :NERDTreeToggle<cr>
 
 
+
+"======================== Plugins ========================"
+
+"-
+" CtrlP
+"-
+let g:ctrlp_match_window = 'top,order:ttb,min:1,max:30,results:30'
+let g:ctrlp_custom_ignore = {
+	\ 'dir': '\v[\/]\.(git)$',
+	\ 'file': '\v\.(o)$',
+	\ }
+
 "========================Auto-Commands========================"
 
 "Automatically source the Vimrc file on save.
