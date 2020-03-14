@@ -23,7 +23,7 @@ set incsearch
 
 
 
-"========================Search========================"
+"========================Split Management========================"
 set splitbelow
 set splitright
 
